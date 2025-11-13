@@ -100,7 +100,7 @@ body{
     transform: translateY(20px);
   }
 }
-@media (min-width: 1600px) and (max-width: 1920px){
+@media (min-width: 1400px){
   .name2{
   left: 66%;
   top: 96%;
@@ -123,5 +123,6 @@ body{
     transform: translateX(70px);
   }
 }
+
 
 }
